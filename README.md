@@ -3,6 +3,8 @@ This is a directory housing CIS 118 Homework Assignements
 
 To view web version go to
 
+Assignment 6 https://lcbane.github.io/CIS118-Assns/a6_1-Bane/index.html
+
 Assignment 5 https://lcbane.github.io/CIS118-Assns/a5_1-Bane/index.html
 
 Assignment 4 https://lcbane.github.io/CIS118-Assns/a4_1-Bane/index.html
